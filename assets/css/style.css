@@ -8957,9 +8957,11 @@ footer .widget-instagram .insta-hover i {
     #Footer
 \*------------------------------------*/
 .footer {
-	background-color: #222222;
-	padding-top: 110px;
+	background-color: #3E464F;
+/*
+	padding-top: 10px;
 	padding-bottom: 0;
+*/
 }
 
 /* Footer Action */
@@ -9147,7 +9149,7 @@ footer .widget-newsletter form {
 }
 
 footer .widget-newsletter .form-control {
-	background-color: transparent;
+	background-color: #fff;
 	border: none;
 	color: #474747;
 	font-size: 12px;
